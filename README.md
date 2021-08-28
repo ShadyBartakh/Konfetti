@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    🥳 Celebrate more with this light weight confetti particle system. Create realistic confetti by implementing this easy to use library.
+    🥳 Celebrate more with this lightweight confetti particle system. Create realistic confetti by implementing this easy to use library.
 <p>
 
 
